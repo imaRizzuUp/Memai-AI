@@ -1,0 +1,5 @@
+{
+  "name": "Memai By Henoch Saerang v7",
+  "description": "An AI-powered image editing application. Upload images, create projects, and use generative AI with text prompts and cropping to edit your images seamlessly. Your projects are saved in a personal gallery.",
+  "requestFramePermissions": []
+}
